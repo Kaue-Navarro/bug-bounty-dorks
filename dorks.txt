@@ -87,3 +87,4 @@ site:*.br responsible disclosure
 site:*.at responsible disclosure
 site:*.be responsible disclosure
 site:*.au responsible disclosure
+intext:Cryptocurrency Exchange intext:Bug bounty
